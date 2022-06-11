@@ -3,7 +3,6 @@
 ## Contacts
 
 - Location: Moscow, Russia
-- TG: @tuyaragrigoreva 
 - Email: tuyagrig@gmail.com
 - GitHub: [veganwaldon](https://github.com/veganwaldon)
 ## About
